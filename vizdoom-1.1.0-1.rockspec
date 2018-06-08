@@ -1,17 +1,17 @@
 -- This file was automatically generated for the LuaDist project.
 
 package = "vizdoom"
-version = "1.1.0-0"
+version = "1.1.0-1"
 
 -- LuaDist source
 source = {
-  tag = "1.1.0-0",
+  tag = "1.1.0-1",
   url = "git://github.com/LuaDist-testing/vizdoom.git"
 }
 -- Original source
 -- source = {
 --     url = "git://github.com/Marqt/ViZDoom",
---     tag = "1.1.0"
+--     tag = "1.1.0-luarocks"
 -- }
 
 description = {

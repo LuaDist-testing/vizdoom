@@ -43,6 +43,8 @@ ViZDoom API is **reinforcement learning** friendly (suitable also for learning f
 
 ## Installation/Building instructions
 
+- [PyPI (pip)](doc/Building.md#pypi)
+- [LuaRocks](doc/Building.md#luarocks)
 - [Linux](doc/Building.md#linux)
 - [Windows](doc/Building.md#windows)
 - [OSX](doc/Building.md#osx)
@@ -50,12 +52,12 @@ ViZDoom API is **reinforcement learning** friendly (suitable also for learning f
 ## Windows build
 For Windows we are providing compiled runtime binaries and development libraries:
 
-### [1.1.0rc](https://github.com/Marqt/ViZDoom/releases/tag/1.1.0rc) (2016-11-26):
-- [Python 2.7 (64-bit)](https://github.com/Marqt/ViZDoom/releases/download/1.1.0rc/ViZDoom-1.1.0rc-Win-Python27-x86_64.zip)
-- [Python 3.4 (64-bit)](https://github.com/Marqt/ViZDoom/releases/download/1.1.0rc/ViZDoom-1.1.0rc-Win-Python34-x86_64.zip)
-- [Python 3.5 (64-bit)](https://github.com/Marqt/ViZDoom/releases/download/1.1.0rc/ViZDoom-1.1.0rc-Win-Python35-x86_64.zip)
-- [Lua 5.1 & LuaJIT (64-bit)](https://github.com/Marqt/ViZDoom/releases/download/1.1.0rc/ViZDoom-1.1.0rc-Win-Lua51-LuaJIT-x86_64.zip)
-- [Java (64-bit)](https://github.com/Marqt/ViZDoom/releases/download/1.1.0rc/ViZDoom-1.1.0rc-Win-Java-x86_64.zip)
+### [1.1.0](https://github.com/Marqt/ViZDoom/releases/tag/1.1.0) (2016-12-23):
+- [Python 2.7 (64-bit)](https://github.com/Marqt/ViZDoom/releases/download/1.1.0/ViZDoom-1.1.0-Win-Python27-x86_64.zip)
+- [Python 3.4 (64-bit)](https://github.com/Marqt/ViZDoom/releases/download/1.1.0/ViZDoom-1.1.0-Win-Python34-x86_64.zip)
+- [Python 3.5 (64-bit)](https://github.com/Marqt/ViZDoom/releases/download/1.1.0/ViZDoom-1.1.0-Win-Python35-x86_64.zip)
+- [Lua 5.1 & LuaJIT (64-bit)](https://github.com/Marqt/ViZDoom/releases/download/1.1.0/ViZDoom-1.1.0-Win-Lua51-LuaJIT-x86_64.zip)
+- [Java (64-bit)](https://github.com/Marqt/ViZDoom/releases/download/1.1.0/ViZDoom-1.1.0-Win-Java-x86_64.zip)
 
 
 ## Examples
